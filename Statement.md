@@ -4,11 +4,17 @@ food recommendations based on their specific age group.
 FUNTIONALITY
 
 The program defines a single function, get_nutrition_suggestion(age), which uses conditional logic (if/elif statements) to sort users into one of five categories:
+
 Infants (0-3 years)
+
 Children (4-12 years)
+
 Teenagers (13-19 years)
+
 Adults (20-60 years)
+
 Senior Citizens (60+ years)
+
 Based on the age entered by the user, the script returns a tailored list of suggested foods and nutritional guidelines, ranging from essential nutrients
 like breast milk for infants to soft, easy-to-digest foods for seniors.
 
